@@ -13,6 +13,9 @@ namespace KyhLoopDemos
         public void Run()
         {
 
+
+            //DET HÄR ÄR ETT GIT_TEST
+
             //LOOP 6
 
             int sist = 0;
